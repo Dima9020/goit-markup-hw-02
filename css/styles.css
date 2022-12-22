@@ -218,7 +218,8 @@ background-color: var(--light-background-color);
 cursor: pointer;
 }
 .portfolio-btn:hover,.portfolio-btn:focus {
-   background-color: var(--accent-background-color);
+   background-color: var(--ocean-btn-color);
+   color: var(--white-title-color);
 }
 .portfolio-title {
 font-weight: 700;
